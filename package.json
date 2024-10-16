@@ -1,0 +1,11 @@
+{
+  "name": "yarn-workspace-monorepo",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start:a": "yarn workspace @yarn-workspace-monorepo/project-a start",
+    "start:b": "yarn workspace @yarn-workspace-monorepo/project-b start"
+  },
+  "packageManager": "yarn@4.3.1"
+}

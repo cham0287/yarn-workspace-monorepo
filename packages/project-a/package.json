@@ -1,0 +1,4 @@
+{
+  "name": "@yarn-workspace-monorepo/project-a",
+  "packageManager": "yarn@4.3.1"
+}

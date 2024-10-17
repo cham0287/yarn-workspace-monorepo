@@ -1,5 +1,5 @@
 {
-  "name": "@yarn-worspace-monorepo/project-a",
+  "name": "@yarn-workspace-monorepo/project-a",
   "version": "0.1.0",
   "private": true,
   "scripts": {

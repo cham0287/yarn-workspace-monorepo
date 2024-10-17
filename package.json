@@ -9,5 +9,8 @@
     "build:a": "yarn workspace @yarn-workspace-monorepo/project-a build",
     "build:b": "yarn workspace @yarn-workspace-monorepo/project-b build"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "@tanstack/react-query": "^5.59.15"
+  }
 }
